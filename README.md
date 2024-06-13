@@ -20,8 +20,9 @@ Answer the following questions based on your understanding of the installation a
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
-   For optimal coding environment, some initial cofigurations should be made depending on the kind of projects you plan on doing. Firstly, its a good practice to set your theme to your taste and then enable autosave to whatever code yyou type. Another thing you need to do is to install and enable necessary extensions you need. If you are going to be working with python files, you should download python extension verified by microsoft. other extensions you could download are dart, flutter, etc. 
    
+   For optimal coding environment, some initial cofigurations should be made depending on the kind of projects you plan on doing. Firstly, its a good practice to set your theme to your taste and then enable autosave to whatever code yyou type. Another thing you need to do is to install and enable necessary extensions you need. If you are going to be working with python files, you should download python extension verified by microsoft. other extensions you could download are dart, flutter, etc. 
+
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.

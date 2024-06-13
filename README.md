@@ -20,12 +20,20 @@ Answer the following questions based on your understanding of the installation a
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
-   
-   For optimal coding environment, some initial cofigurations should be made depending on the kind of projects you plan on doing. Firstly, its a good practice to set your theme to your taste and then enable autosave to whatever code yyou type. Another thing you need to do is to install and enable necessary extensions you need. If you are going to be working with python files, you should download python extension verified by microsoft. other extensions you could download are dart, flutter, etc. 
+
+   For optimal coding environment, some initial cofigurations should be made depending on the kind of projects you plan on doing. Firstly, its a good practice to set your theme to your taste and then enable autosave to whatever code you type. Another thing you need to do is to install and enable necessary extensions you need. If you are going to be working with python files, you should download python extension verified by microsoft. other extensions you could download are dart, flutter, etc. 
 
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
+
+   Activity bar: Located on the far left-hand side. Lets you switch between views and gives you additional context-specific indicators, like the number of outgoing changes when Git is enabled. You can change the position of the Activity Bar.
+
+   Side bar: Contains different views like the Explorer to assist you while working on your project, Search Panel which provides search and replace functionality across files in your project, Source Control Panel which displays Git repository status, allows staging/unstaging changes, and shows commit history, Run and Debug Panel which contains configurations for running and debugging your code and Extensions Panel which lists installed extensions and allows you to search for and install new ones.
+   
+   Editor Group: The main area to edit your files. You can open as many editors as you like side by side vertically and horizontally.
+
+   Status bar: The Status Bar displays various information and provides shortcuts to perform certain actions. It shows context-specific information related to the currently active file or workspace.
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.

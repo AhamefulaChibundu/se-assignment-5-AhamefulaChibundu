@@ -14,4 +14,3 @@ you can successfully install python on your computer also. The steps are as foll
      installed by going to “start”, search and click on cmd which is your command
      line. Once it opens, type the command“python--version” and the version of 
      the python you installed would be displayed.
-
